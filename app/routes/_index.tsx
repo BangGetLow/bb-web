@@ -32,7 +32,7 @@ export default function Index() {
         </li>
         <li>
           <a target="_blank" href="https://www.youtube.com/shorts/MHeyx-lGZ9Y" rel="noreferrer">
-            How to Fight Discrimination
+            How to Fight Against Discrimination
           </a>
         </li>
       </ul>
