@@ -10,29 +10,29 @@ export const meta: V2_MetaFunction = () => {
 export default function Index() {
   return (
     <div style={{ fontFamily: "system-ui, sans-serif", lineHeight: "1.8" }}>
-      <h1>Welcome to Remix</h1>
+      <h1>Welcome to BIGBANG App</h1>
       <ul>
         <li>
           <a
             target="_blank"
-            href="https://remix.run/tutorials/blog"
+            href="https://www.youtube.com/shorts/ntHRnXyVQSw"
             rel="noreferrer"
           >
-            15m Quickstart Blog Tutorial
+            Awkward Moment
           </a>
         </li>
         <li>
           <a
             target="_blank"
-            href="https://remix.run/tutorials/jokes"
+            href="https://www.youtube.com/shorts/MynjFYGvx3M"
             rel="noreferrer"
           >
-            Deep Dive Jokes App Tutorial
+            Where to Study Abroad
           </a>
         </li>
         <li>
-          <a target="_blank" href="https://remix.run/docs" rel="noreferrer">
-            Remix Docs
+          <a target="_blank" href="https://www.youtube.com/shorts/MHeyx-lGZ9Y" rel="noreferrer">
+            How to Fight Discrimination
           </a>
         </li>
       </ul>
